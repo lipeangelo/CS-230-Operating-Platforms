@@ -34,4 +34,4 @@ I approached software design by identifying requirements, creating a UML class d
 
 The completed Software Design Document includes the client requirements, UML domain model, operating-platform evaluation, and recommendations for the application's architecture and deployment.
 
-[View the completed Software Design Document](CS_230_Project_Three_Software_Design_FA.docx)
+[View the completed Software Design Document](CS%20230%20Project%20Three%20Software%20Design%20-%20FA.docx)
